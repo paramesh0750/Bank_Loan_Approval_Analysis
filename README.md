@@ -1,6 +1,6 @@
 # 🏦 Bank Loan Approval Analysis – Power BI Dashboard
 
-An interactive **Power BI** dashboard that analyses bank loan applications end to end: application volume, approval and rejection trends, loan amounts by product, customer credit health, and how long loan processing takes.
+An interactive **Power BI** dashboard that analyses bank loan applications end to end: application volume, approval and rejection trends, loan amounts by product, customer credit risk, and how long loan processing takes.
 
 ---
 
@@ -52,7 +52,7 @@ Banks need to know *how many* loans they receive, *how many* get approved, *whic
 
 ## 🗂️ Data Model
 
-Data is loaded from an Excel workbook (`Bank_Loan_final.xlsx`) with seven sheets:
+Data is loaded from an Excel workbook (`Bank_Loan.xlsx`) with seven sheets:
 
 | Table | Key Columns |
 |---|---|
