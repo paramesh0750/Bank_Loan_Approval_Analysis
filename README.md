@@ -109,7 +109,8 @@ Avg Processing Days = AVERAGE(Loan_Processing[Processing_Days])
 
 ## 🖼️ Dashboard Preview
 
-<img width="1500" height="707" alt="image" src="https://github.com/user-attachments/assets/805858ff-49cb-4c99-895a-0e4e492dbf19" />
+<img width="1507" height="707" alt="image" src="https://github.com/user-attachments/assets/dcc2c133-e8d6-46df-95cc-0b9508e7882d" />
+
 
 
 ## 🔮 Future Improvements
