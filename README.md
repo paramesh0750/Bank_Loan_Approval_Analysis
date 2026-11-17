@@ -34,10 +34,9 @@ Banks need to know *how many* loans they receive, *how many* get approved, *whic
 | Clustered column chart | Number of applications by loan type |
 | Bar chart | Total loan amount by loan type |
 | Pie chart | Applicants by credit status (Good / Average / Low) |
-| Funnel chart | Application flow by loan status |
 
 ### Slicers (Filters)
-`Application Date` · `Loan Type` · `Loan Status` · `Employment` · `Gender`
+`Application Date` · `Loan Type` · `Loan Status` · `Employment` · `Document Status`
 
 ## 📈 Key Insights (from the current data)
 
